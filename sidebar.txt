@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jen:home|Door43 (jen)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jen|d43-jen repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jen/archive/master.zip|d43-jen.zip]]
+
+**Recent Changes**
+{{changes>ns = jen}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jen|Ethnologue data]]
+
